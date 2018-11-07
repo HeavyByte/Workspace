@@ -10,3 +10,12 @@
 
 # Tools
 
+### OSX
+Karabiner: https://pqrs.org/osx/karabiner/
+
+Magnet: http://magnet.crowdcafe.com/
+
+### Windows
+
+### Linux
+
